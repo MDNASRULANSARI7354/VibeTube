@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VibeTube</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_shorts">Shorts</string>
+    <string name="tab_subscriptions">Subscriptions</string>
+    <string name="tab_library">You</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_search">Search VibeTube</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribed">Subscribed</string>
+</resources>

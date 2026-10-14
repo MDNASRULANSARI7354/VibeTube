@@ -1,0 +1,6 @@
+{
+  "name": "VibeTube",
+  "description": "A high-performance YouTube-inspired video sharing application featuring feeds, Shorts vertical player, Media3 ExoPlayer, creator channels, comments, playlists, and full Laravel backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
